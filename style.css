@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-box {
+    width: 100%;
+}
+
+.img-box img {
+    width: 80%;
+    margin-left: 10rem;
+    margin-top: 4rem;
+}
+
+.main{
+    text-align: center;
+}
+
+.btn {
+    border: none;
+    background: #888;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: black;
+}
+
+.slider-img {
+    height: 38rem;
+    border: 5px solid #49A6E9;
+}
